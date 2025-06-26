@@ -1,1 +1,1 @@
-# Agricultural-Pests-Detectoin-and-Classification
+# Agricultural-Pests-Detection-and-Classification
